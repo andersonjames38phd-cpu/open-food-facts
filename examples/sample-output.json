@@ -1,0 +1,225 @@
+[
+  {
+    "barcode": "8410076610737",
+    "name": "Barre de céréales protéinés",
+    "brands": [
+      "Nature Valley"
+    ],
+    "quantity": "160g",
+    "url": "https://world.openfoodfacts.org/product/8410076610737",
+    "nutriscore": "D",
+    "novaGroup": 4,
+    "ecoscore": "D",
+    "energyKcal100g": 489,
+    "fat100g": 28.3,
+    "saturatedFat100g": 7.4,
+    "carbs100g": 27.5,
+    "sugars100g": 17.2,
+    "fiber100g": 11,
+    "protein100g": 25.6,
+    "salt100g": 0.94,
+    "servingSize": "1 bar (40 g)",
+    "ingredients": "Cacahuètes grillées (38,6%), protéine de soja, oligofructose, sirop de glucose, huiles et graisses végétales (palme, karité, tournesol, colza), sucre, morceaux de chocolat (sucre, pâte de cacao, beurre de cacao, lécithines de soja), maltodextrine, beurre de cacahuètes (1,9%), cacao maigre en poudre,...",
+    "allergens": [
+      "milk",
+      "peanuts",
+      "soybeans"
+    ],
+    "traces": [
+      "nuts"
+    ],
+    "additives": [
+      "e170",
+      "e170i",
+      "e322",
+      "e322i",
+      "e422"
+    ],
+    "labels": [
+      "no-gluten",
+      "no-colorings",
+      "no-preservatives"
+    ],
+    "categories": [
+      "plant-based-foods-and-beverages",
+      "plant-based-foods",
+      "breakfasts",
+      "cereals-and-potatoes",
+      "cereals-and-their-products",
+      "breakfast-cereals",
+      "Brood/Ontbijt",
+      "Koeken",
+      "Koeken/Chocolade/Snoep"
+    ],
+    "countries": [
+      "belgium",
+      "france",
+      "germany",
+      "netherlands",
+      "reunion"
+    ],
+    "stores": [
+      "Ah"
+    ],
+    "packaging": "Carton",
+    "origins": "Spain",
+    "imageUrl": "https://images.openfoodfacts.org/images/products/841/007/661/0737/front_fr.130.400.jpg",
+    "scans": 631,
+    "lastModified": "2026-10-28T13:47:34.000Z",
+    "source": "search: protein bar"
+  },
+  {
+    "barcode": "5060088700112",
+    "name": "Protein Bars Cocoa Hazelnut",
+    "brands": [
+      "nakd."
+    ],
+    "quantity": "135 g",
+    "url": "https://world.openfoodfacts.org/product/5060088700112",
+    "nutriscore": "C",
+    "novaGroup": 4,
+    "ecoscore": "C",
+    "energyKcal100g": 424,
+    "fat100g": 22,
+    "saturatedFat100g": 3.5,
+    "carbs100g": 33,
+    "sugars100g": 28,
+    "fiber100g": 16,
+    "protein100g": 16,
+    "salt100g": 0.01,
+    "servingSize": "45 g",
+    "ingredients": "Dates (38%), Peanuts (35%), Chicory fibre (10%), Peanut flour (8%), Hazelnuts (5%), Fat-reduced cocoa powder (3%), natural flavouring.",
+    "allergens": [
+      "nuts",
+      "peanuts",
+      "Cacahuètes",
+      "Noisettes"
+    ],
+    "traces": [
+      "nuts",
+      "soybeans"
+    ],
+    "additives": [],
+    "labels": [
+      "vegetarian",
+      "no-gluten",
+      "kosher",
+      "no-milk",
+      "vegan",
+      "fsc",
+      "fsc-mix",
+      "kashrut-division-of-the-london-beth-din",
+      "no-added-sugar",
+      "no-lactose",
+      "triman"
+    ],
+    "categories": [
+      "plant-based-foods-and-beverages",
+      "plant-based-foods",
+      "snacks",
+      "sweet-snacks",
+      "nuts-and-their-products",
+      "bars",
+      "cereal-bars",
+      "chocolate-cereal-bars",
+      "energy-bars",
+      "nut-bars",
+      "protein-bars",
+      "cereal-bar-with-chocolate-fortified-with-vitamins-and-minerals",
+      "barres-aux-fruits",
+      "barres-de-cereales",
+      "barres-de-fruits-noix"
+    ],
+    "countries": [
+      "belgium",
+      "france",
+      "netherlands",
+      "spain",
+      "switzerland",
+      "united-kingdom"
+    ],
+    "stores": [
+      "Jumbo"
+    ],
+    "packaging": null,
+    "origins": null,
+    "imageUrl": "https://images.openfoodfacts.org/images/products/506/008/870/0112/front_en.30.400.jpg",
+    "scans": 375,
+    "lastModified": "2026-11-21T21:17:55.000Z",
+    "source": "search: protein bar"
+  },
+  {
+    "barcode": "5060088707685",
+    "name": "Barres de fruits secs & noix Myrtilles",
+    "brands": [
+      "nākd"
+    ],
+    "quantity": "140 g",
+    "url": "https://world.openfoodfacts.org/product/5060088707685",
+    "nutriscore": "D",
+    "novaGroup": 4,
+    "ecoscore": null,
+    "energyKcal100g": 371,
+    "fat100g": 13,
+    "saturatedFat100g": 2,
+    "carbs100g": 54.3,
+    "sugars100g": 52,
+    "fiber100g": 4.1,
+    "protein100g": 7.1,
+    "salt100g": 0.02,
+    "servingSize": "35 g",
+    "ingredients": "Dattes 59%, Raisins secs 15%, _Noix de cajou_ 14%, _Amandes_ 10%, Myrtilles Lyophilisées 1%, Arôme Naturel",
+    "allergens": [
+      "nuts",
+      "Cashew nuts"
+    ],
+    "traces": [
+      "nuts",
+      "peanuts",
+      "soybeans"
+    ],
+    "additives": [],
+    "labels": [
+      "vegetarian",
+      "no-gluten",
+      "kosher",
+      "no-preservatives",
+      "source-of-fibre",
+      "vegan",
+      "fsc",
+      "fsc-mix",
+      "green-dot",
+      "kashrut-division-of-the-london-beth-din",
+      "no-added-sugar",
+      "no-lactose",
+      "triman",
+      "100 % natural"
+    ],
+    "categories": [
+      "plant-based-foods-and-beverages",
+      "plant-based-foods",
+      "snacks",
+      "sweet-snacks",
+      "nuts-and-their-products",
+      "bars",
+      "nut-bars",
+      "barres-aux-fruits"
+    ],
+    "countries": [
+      "belgium",
+      "france",
+      "netherlands",
+      "spain",
+      "switzerland"
+    ],
+    "stores": [
+      "Jumbo"
+    ],
+    "packaging": "Cardboard,fr:Sachet Plastique Individuel",
+    "origins": null,
+    "imageUrl": "https://images.openfoodfacts.org/images/products/506/008/870/7685/front_en.105.400.jpg",
+    "scans": 342,
+    "lastModified": "2026-10-28T13:49:01.000Z",
+    "source": "search: protein bar"
+  }
+]
